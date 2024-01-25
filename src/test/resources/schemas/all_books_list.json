@@ -1,0 +1,1364 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "products": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "author_bio": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "author",
+            "author_bio",
+            "id",
+            "price",
+            "title"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "products"
+  ]
+}
