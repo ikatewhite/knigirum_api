@@ -61,7 +61,7 @@ tasks.register('promocodes_test', Test) {
     }
 }
 
-tasks.register('review_test', Test) {
+tasks.register('reviews_test', Test) {
     useJUnitPlatform {
         includeTags("reviews")
     }
