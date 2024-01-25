@@ -13,7 +13,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 public class AllBooksResponseModel {
-
     @JsonProperty("products")
     private List<ProductsItem> products;
 }
